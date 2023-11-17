@@ -1,6 +1,7 @@
 ## 👋 Welcome to our Lab's GitHub page!
 
 ![A photo of our lab.](https://pophealthanalytics.com/wp-content/uploads/2018/09/Team-archway.png)
+![15_Group_2I1A3510](https://github.com/PopHealthAnalytics/.github/assets/45130873/bc0a36aa-23d2-4774-a09a-916198a7cddf)
 
 Our work draws from demographic, clinical, behavioural, social, and health outcomes information. From these sources, we gain a comprehensive perspective 
 on population health, allowing us to inform decision-making related to improved health system performance, reduced inequities, and fiscal sustainability.
